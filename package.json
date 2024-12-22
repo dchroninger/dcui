@@ -1,0 +1,25 @@
+{
+  "name": "@dchroninger/dcui",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Dave Chroninger",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dchroninger/dcui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dchroninger/dcui/issues"
+  },
+  "homepage": "https://github.com/dchroninger/dcui#readme",
+  "main": "",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.11"
+  }
+}
